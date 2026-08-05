@@ -1,0 +1,3 @@
+- [x] Modify `atomic_age.xml` to use both `android` and `app` namespaces
+- [x] Verify layout and build
+- [x] Create walkthrough
